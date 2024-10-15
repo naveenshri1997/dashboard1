@@ -5,7 +5,7 @@ import "ag-grid-community/styles/ag-grid.css"; // Mandatory CSS required by the 
 import "ag-grid-community/styles/ag-theme-quartz.css";
 import { useState } from "react";
 
-const page1 = () => {
+const Pageone = () => {
     const [rowData, setRowData] = useState([
         { make: "Tesla", model: "Model Y", price: 64950, electric: true },
         { make: "Ford", model: "F-Series", price: 33850, electric: false },
@@ -156,4 +156,4 @@ const page1 = () => {
     )
 }
 
-export default page1
+export default Pageone

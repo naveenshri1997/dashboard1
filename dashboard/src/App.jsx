@@ -8,7 +8,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 import {Routes,Route } from 'react-router-dom'
 import './App.css';
 import Home from './Home';
-import Page1 from './page1';
+import Pageone from './Pageone';
 function App() {
 
   return (
@@ -16,7 +16,7 @@ function App() {
     
  <Routes>
      <Route path='/' element={<Home />} />
-     <Route path='/page1' element={<Page1 />} />       
+              <Route path='/page1' element={<Pageone />} />       
  </Routes>
     </>
   )
