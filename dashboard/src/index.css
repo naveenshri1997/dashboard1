@@ -1,0 +1,21 @@
+.accordion .accordion-item {
+    border: none;
+}
+
+.accordion .accordion-body {
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+}
+
+.accordion .accordion-header .accordion-button {
+    box-shadow: none;
+    font-weight: 600;
+}
+
+form label {
+    font-weight: 600;
+}
+
+.modal .custom_right_side {
+    border-left: 1px solid gainsboro;
+}
