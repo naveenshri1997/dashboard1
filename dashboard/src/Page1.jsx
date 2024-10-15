@@ -70,7 +70,7 @@ const page1 = () => {
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header ">
                                                     <button class="accordion-button text-bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                        Base information
+                                                        Base information changes
                                                     </button>
                                                 </h2>
                                                 <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
